@@ -1,5 +1,4 @@
-# Docker
-# Untitled
+#Docker
 
 Containers and Image, What and Why?
 
